@@ -1,8 +1,11 @@
 # Sudoku-Generator
 Creates Sudoku board with 6 or more numbers per line in seconds (along with solution)
 
+Checkout ```index.html``` for a sample on how to use
+
 API will be updated soon!
 
+##How to Use
 To use, simply initiate a new ```var sudoku = new Sudoku(a, b)``` where a is the dimention of a grid (for standard and by default it is 9) and b is how many hidden(27 on default or 3/9 fields).
 
 then use ```javascript sudoku.get_sudoku();``` to get a json object containing it
