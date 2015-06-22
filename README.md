@@ -5,7 +5,7 @@ API will be updated too
 
 To use, simply initiate a new var sudoku = new Sudoku(a, b) where a is the dimention of a grid (for standard and by default it is 9) and b is how many hidden(27 on default or 3/9 fields).
 
-then use sudoku.get_sudoku(); to get a json object containing it
+then use ```sudoku.get_sudoku();``` to get a json object containing it
 you can also specify in the parameter if you want it in 'row', 'column', or 'grid';
 the same will go for sudoku.get_sudoku_complete(); 
 
