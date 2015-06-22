@@ -1,7 +1,7 @@
 # Sudoku-Generator
 Creates Sudoku board with 6 or more numbers per line in seconds (along with solution)
 
-Checkout ```index.html``` for a sample on how to use
+Checkout ```index.html``` for a sample on how to use, __requires__ jQuery!
 
 API will be updated soon!
 
